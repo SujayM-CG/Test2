@@ -9,4 +9,7 @@ Best,
 Sujay 
 
 
-This line has been added to check git command. 
+This line has been added to check git command.
+
+
+this is the example for push command
